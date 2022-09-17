@@ -3,7 +3,7 @@
 <h1><b> Hi !👋 There I'm Sethu </b></h1>
 
 <p align="center">
-  <a href="https://github.com/sethu-sn"><img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&center=true&vCenter=true&multiline=false&lines=HI!+I+AM+SETHU;IM+A+BE-ECE+STUDENT;FOLLOW+ME+FOR+MORE;TRYING+TO+LEARN+PYTHON;MOST+ACTIVE+ON+TELEGRAM+/+INSTAGRAM" alt="UwU">
+  <a href="https://github.com/sethu-sn"><img src="https://readme-typing-svg.herokuapp.com/?color=8000ff&center=true&vCenter=true&multiline=false&lines=HI!+I+AM+SETHU;IM+A+BE-ECE+STUDENT;FOLLOW+ME+FOR+MORE;TRYING+TO+LEARN+PYTHON;MOST+ACTIVE+ON+TELEGRAM+/+INSTAGRAM" alt="UwU">
 </p>
 
 
@@ -34,26 +34,22 @@ You can use the website to generate badges: https://img.shields.io/badge/Sethu-S
 <p align="left">
 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 <p align="left">
-• 𝙼𝚢 𝙽𝚊𝚖𝚎 : ᴊᴇᴏʟ 😉
+• 𝙼𝚢 𝙽𝚊𝚖𝚎 : SETHU 😉
 <p align="left">
-• 𝙰𝚐𝚎 : 14
+• 𝙰𝚐𝚎 : 21
 <p align="left">
-• 𝙿𝚕𝚊𝚌𝚎 : ᴋᴏᴄʜɪ
+• 𝙿𝚕𝚊𝚌𝚎 : Salem
 <p align="left">
-• 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : 𝙼𝚊𝚕𝚊𝚢𝚊𝚕𝚊𝚖
+• 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : Tamil
 <p align="left">
-• 𝚆𝚘𝚛𝚔 : 𝚂𝚝𝚞𝚍𝚢 𝙸𝚗 9ᴛʜ ꜱᴛᴀɴᴅᴀʀᴅ
+• 𝚆𝚘𝚛𝚔 : 𝚂𝚝𝚞𝚍𝚢 𝙸𝚗 BE-ECE
 <p align="left">
 - 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 
+<p align="left">
+- 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 INSTAGRAM 
 
 
-<p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=jeolpaul&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
-</p>
 
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeolpaul&&show_icons=true&theme=midnight-purple" alt="JEOLPAUL"/></p>        
- 
 <p align="center">
 Used Languages 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeolpaul&layout=compact&theme=tokyonight" align="center">
@@ -76,17 +72,7 @@ Used Languages
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dihanofficial#version3"/>
   </a>
 </p>
-<a href="h
-
-  <a href="https://github.com/jeolpaul"><img alt="Jeol's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jeol&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-
----
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.89
+ython      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.89
 
 
 
