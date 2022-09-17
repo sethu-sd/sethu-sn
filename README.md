@@ -1,6 +1,6 @@
 
 <!-- Your title -->
-<h1><b> Hi !👋 There I'm Sethu 🇮🇳</b></h1>
+<h1><b> Hi !👋 There I'm Sethu </b></h1>
 
 <p align="center">
   <a href="https://github.com/sethu-sn"><img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&center=true&vCenter=true&multiline=false&lines=HI!+I+AM+SETHU;IM+A+BE-ECE+STUDENT;FOLLOW+ME+FOR+MORE;TRYING+TO+LEARN+PYTHON;MOST+ACTIVE+ON+TELEGRAM+/+INSTAGRAM" alt="UwU">
@@ -8,7 +8,7 @@
 
 
 <!-- Your badges
-You can use the website to generate badges: https://shields.io/
+You can use the website to generate badges: (https://img.shields.io/badge/SN-Sethu-red)
 -->
 | <a href="https://t.me/TG_BI_TcH"><img src="https://telegra.ph/file/05b067fb3bf9b9742bb36.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
