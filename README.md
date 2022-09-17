@@ -8,11 +8,11 @@
 
 
 <!-- Your badges
-You can use the website to generate badges: (https://img.shields.io/badge/SN-Sethu-red)
+You can use the website to generate badges: https://img.shields.io/badge/Sethu-SN-red
 -->
-| <a href="https://t.me/TG_BI_TcH"><img src="https://telegra.ph/file/05b067fb3bf9b9742bb36.jpg" width="150px" height="150px" /></a> |
+| <a href="https://t.me/box_owner"><img src="https://telegra.ph/file/05b067fb3bf9b9742bb36.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[JEOL PAUL](https://t.me/TG_BI_TCH)**                                                                                |
+|       **[GIPSY](https://t.me/box_owner)**                                                                                |
 
 ### My Other Details
 
