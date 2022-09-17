@@ -1,14 +1,14 @@
 
 <!-- Your title -->
-<h1><b> Hi !👋 There I'm Sethu </b></h1>
+<h1><b> Hi !👋 There I'm Gipsy </b></h1>
 
 <p align="center">
-  <a href="https://github.com/sethu-sn"><img src="https://readme-typing-svg.herokuapp.com/?color=8000ff&center=true&vCenter=true&multiline=false&lines=HI!+I+AM+SETHU;IM+A+BE-ECE+STUDENT;FOLLOW+ME+FOR+MORE;TRYING+TO+LEARN+PYTHON;MOST+ACTIVE+ON+TELEGRAM+/+INSTAGRAM" alt="UwU">
+  <a href="https://github.com/sethu-sn"><img src="https://readme-typing-svg.herokuapp.com/?color=8000ff&center=true&vCenter=true&multiline=false&lines=HI!+I+AM+GIPSY;IM+A+BE-ECE+STUDENT;FOLLOW+ME+FOR+MORE;TRYING+TO+LEARN+PYTHON;MOST+ACTIVE+ON+TELEGRAM+/+INSTAGRAM" alt="UwU">
 </p>
 
 
 <!-- Your badges
-You can use the website to generate badges: https://img.shields.io/badge/Sethu-SN-red
+You can use the website to generate badges: https://img.shields.io/badge/gipsy-SN-red
 -->
 | <a href="https://t.me/box_owner"><img src="https://telegra.ph/file/05b067fb3bf9b9742bb36.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
@@ -26,15 +26,15 @@ You can use the website to generate badges: https://img.shields.io/badge/Sethu-S
 ---------
 <p align="center">
 
- [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_je_ol_?igshid=YmMyMTA2M2Y=)
- [![Telegram](https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/TG_BI_CH)
+ [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gipsy_sn/)
+ [![Telegram](https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/box_owner)
 
 ---------
 
 <p align="left">
 𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 <p align="left">
-• 𝙼𝚢 𝙽𝚊𝚖𝚎 : SETHU 😉
+• 𝙼𝚢 𝙽𝚊𝚖𝚎 : Gipsy 😉
 <p align="left">
 • 𝙰𝚐𝚎 : 21
 <p align="left">
@@ -49,30 +49,10 @@ You can use the website to generate badges: https://img.shields.io/badge/Sethu-S
 - 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 INSTAGRAM 
 
 
-
-<p align="center">
-Used Languages 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeolpaul&layout=compact&theme=tokyonight" align="center">
-
-
-# Most Used Languages
-
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=jeolpaul)
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-
-
-
-
 # Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 
-<p align="center">
-  <a href="https://github.com/jeolpaul">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dihanofficial#version3"/>
-  </a>
-</p>
-ython      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.89
+\
+Daily Active : 4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.89
 
 
 
